@@ -15,6 +15,8 @@
  
  📖 &emsp; I'm eager to learn new features <br/><br/>
 
+ ⏭️ &emsp; my next step is Next.js
+
 
 
 </p>
